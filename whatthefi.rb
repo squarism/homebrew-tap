@@ -1,4 +1,4 @@
-class WhatTheFi < Formula
+class Whatthefi < Formula
   desc "CLI for answering the question: WTF is up with my Wifi?"
   homepage "https://github.com/squarism/whatthefi"
   url "https://github.com/squarism/whatthefi/archive/v0.1.0.zip"
